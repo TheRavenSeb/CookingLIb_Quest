@@ -3,13 +3,13 @@
 		<TargetFramework>net8.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>disable</Nullable>
-		<RootNamespace>MyModName_Quest</RootNamespace>
+		<RootNamespace>CookingLib_Quest</RootNamespace>
 		<LangVersion>latest</LangVersion>
 		<IsPackable>false</IsPackable>
 		<AssemblyVersion>1.0.0.0</AssemblyVersion>
 		<FileVersion>1.0.0.0</FileVersion>
 		<NeutralLanguage>en-US</NeutralLanguage>
-		<AssemblyName>MyModName_Quest</AssemblyName>
+		<AssemblyName>CookingLib_Quest</AssemblyName>
 	</PropertyGroup>
 
 	<PropertyGroup>
@@ -18,7 +18,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<Compile Include="Core.cs" />
+		<Compile Include="Main.cs" />
 	</ItemGroup>
 
 	<ItemGroup>
