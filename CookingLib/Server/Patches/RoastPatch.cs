@@ -1,6 +1,6 @@
 using System;
-using Il2Cpp.Alta.Cooking;
-using Il2Cpp.Alta.Networking;
+using Il2CppAlta.Cooking;
+using Il2CppAlta.Networking;
 using HarmonyLib;
 using UnityEngine;
 

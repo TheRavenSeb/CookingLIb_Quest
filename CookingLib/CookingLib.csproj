@@ -14,96 +14,96 @@
 
 	<PropertyGroup>
 		<AllowUnsafeBlocks>True</AllowUnsafeBlocks>
-		<EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+		<EnableDefaultCompileItems>True</EnableDefaultCompileItems>
 	</PropertyGroup>
 
 	
 
 	<ItemGroup>
 	  <Reference Include="Il2CppAlta.Api.Client">
-	    <HintPath>.\questdlls\Il2CppAlta.Api.Client.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.Api.Client.dll</HintPath>
 	  </Reference>
 
 	  <Reference Include="Il2Cppmscorlib">
-	    <HintPath>.\questdlls\Il2Cppmscorlib.dll</HintPath>
+	    <HintPath>..\questdlls\Il2Cppmscorlib.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppInterop.Runtime">
-	    <HintPath>.\questdlls\Il2CppInterop.Runtime.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppInterop.Runtime.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.CommandLine">
-	    <HintPath>.\questdlls\Il2CppAlta.CommandLine.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.CommandLine.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.Core.Runtime">
-	    <HintPath>.\questdlls\Il2CppAlta.Core.Runtime.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.Core.Runtime.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.Coroutines">
-	    <HintPath>.\questdlls\Il2CppAlta.Coroutines.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.Coroutines.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.EventBus.Runtime">
-	    <HintPath>.\questdlls\Il2CppAlta.EventBus.Runtime.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.EventBus.Runtime.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.Global.Runtime">
-	    <HintPath>.\questdlls\Il2CppAlta.Global.Runtime.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.Global.Runtime.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.IO">
-	    <HintPath>.\questdlls\Il2CppAlta.IO.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.IO.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.LifecycleManagement.Runtime">
-	    <HintPath>.\questdlls\Il2CppAlta.LifecycleManagement.Runtime.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.LifecycleManagement.Runtime.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.LifetimeScopes">
-	    <HintPath>.\questdlls\Il2CppAlta.LifetimeScopes.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.LifetimeScopes.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.MenuItem">
-	    <HintPath>.\questdlls\Il2CppAlta.MenuItem.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.MenuItem.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.NetworkTransport.Runtime">
-	    <HintPath>.\questdlls\Il2CppAlta.NetworkTransport.Runtime.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.NetworkTransport.Runtime.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.Platform">
-	    <HintPath>.\questdlls\Il2CppAlta.Platform.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.Platform.dll</HintPath>
 	  </Reference>
 	  <Reference Include="0Harmony.dll">
-	    <HintPath>.\questdlls\0Harmony.dll</HintPath>
+	    <HintPath>..\questdlls\0Harmony.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.PlatformInformation">
-	    <HintPath>.\questdlls\Il2CppAlta.PlatformInformation.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.PlatformInformation.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.Platform.Oculus">
-	    <HintPath>.\questdlls\Il2CppAlta.Platform.Oculus.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.Platform.Oculus.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.PlatformInformation.Runtime">
-	    <HintPath>.\questdlls\Il2CppAlta.PlatformInformation.Runtime.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.PlatformInformation.Runtime.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.Profiling.Runtime">
-	    <HintPath>.\questdlls\Il2CppAlta.Profiling.Runtime.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.Profiling.Runtime.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.SearchableTools">
-	    <HintPath>.\questdlls\Il2CppAlta.SearchableTools.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.SearchableTools.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.Serialization.Runtime">
-	    <HintPath>.\questdlls\Il2CppAlta.Serialization.Runtime.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.Serialization.Runtime.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.Singletons">
-	    <HintPath>.\questdlls\Il2CppAlta.Singletons.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.Singletons.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.Timing.Runtime">
-	    <HintPath>.\questdlls\Il2CppAlta.Timing.Runtime.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.Timing.Runtime.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.Values">
-	    <HintPath>.\questdlls\Il2CppAlta.Values.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.Values.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppAlta.XRManagement">
-	    <HintPath>.\questdlls\Il2CppAlta.XRManagement.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppAlta.XRManagement.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Il2CppRoot.Township">
-	    <HintPath>.\questdlls\Il2CppRoot.Township.dll</HintPath>
+	    <HintPath>..\questdlls\Il2CppRoot.Township.dll</HintPath>
 	  </Reference>
 	  <Reference Include="MelonLoader">
-	    <HintPath>.\questdlls\MelonLoader.dll</HintPath>
+	    <HintPath>..\questdlls\MelonLoader.dll</HintPath>
 	  </Reference>
 	  <Reference Include="UnityEngine.CoreModule">
-	    <HintPath>.\questdlls\UnityEngine.CoreModule.dll</HintPath>
+	    <HintPath>..\questdlls\UnityEngine.CoreModule.dll</HintPath>
 	  </Reference>
 	</ItemGroup>
 </Project>

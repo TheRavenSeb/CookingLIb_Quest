@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.Reflection;
-using Il2Cpp.Alta.Cooking;
-using Il2Cpp.Alta.Liquid;
+using Il2CppAlta.Cooking;
+using Il2CppAlta.Liquid;
 using HarmonyLib;
 using UnityEngine;
 

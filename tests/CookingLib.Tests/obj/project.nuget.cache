@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "61aov/nYbt4=",
+  "success": false,
+  "projectFilePath": "F:\\coding_projects\\CookingLIb_Quest\\tests\\CookingLib.Tests\\CookingLib.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project CookingLib_Quest is not compatible with net48 (.NETFramework,Version=v4.8). Project CookingLib_Quest supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "F:\\coding_projects\\CookingLIb_Quest\\tests\\CookingLib.Tests\\CookingLib.Tests.csproj",
+      "filePath": "F:\\coding_projects\\CookingLIb_Quest\\tests\\CookingLib.Tests\\CookingLib.Tests.csproj",
+      "libraryId": "CookingLib_Quest",
+      "targetGraphs": [
+        "net48"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project CookingLib_Quest is not compatible with net48 (.NETFramework,Version=v4.8) / win-x86. Project CookingLib_Quest supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "F:\\coding_projects\\CookingLIb_Quest\\tests\\CookingLib.Tests\\CookingLib.Tests.csproj",
+      "filePath": "F:\\coding_projects\\CookingLIb_Quest\\tests\\CookingLib.Tests\\CookingLib.Tests.csproj",
+      "libraryId": "CookingLib_Quest",
+      "targetGraphs": [
+        "net48/win-x86"
+      ]
+    }
+  ]
+}

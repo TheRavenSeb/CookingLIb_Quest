@@ -4,11 +4,11 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 using System.Text;
-using Il2Cpp.Alta;
-using Il2Cpp.Alta.Alchemy;
-using Il2Cpp.Alta.Cooking;
-using Il2Cpp.Alta.Liquid;
-using Il2Cpp.Alta.Networking;
+using Il2CppAlta;
+using Il2CppAlta.Alchemy;
+using Il2CppAlta.Cooking;
+using Il2CppAlta.Liquid;
+using Il2CppAlta.Networking;
 using HarmonyLib;
 using UnityEngine;
 

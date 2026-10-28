@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 using System.Reflection;
-using Il2Cpp.Alta.Liquid;
+using Il2CppAlta.Liquid;
 using HarmonyLib;
 
 namespace CookingLib

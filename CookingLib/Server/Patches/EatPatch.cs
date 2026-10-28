@@ -2,8 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.CompilerServices;
-using Il2Cpp.Alta.Alchemy;
-using Il2Cpp.Alta.Inventory;
+using Il2CppAlta.Alchemy;
+using Il2CppAlta.Inventory;
 using HarmonyLib;
 
 namespace CookingLib

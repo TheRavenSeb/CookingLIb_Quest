@@ -1,8 +1,8 @@
 using System;
 using System.Linq;
 using System.Reflection;
-using Il2Cpp.Alta.Cooking;
-using Il2Cpp.Alta.Pages;
+using Il2CppAlta.Cooking;
+using Il2CppAlta.Pages;
 
 namespace CookingLib
 {

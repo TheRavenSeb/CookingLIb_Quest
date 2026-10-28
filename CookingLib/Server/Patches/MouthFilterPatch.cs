@@ -1,6 +1,6 @@
 using System;
 using System.Runtime.CompilerServices;
-using Il2Cpp.Alta.Liquid;
+using Il2CppAlta.Liquid;
 using HarmonyLib;
 using UnityEngine;
 

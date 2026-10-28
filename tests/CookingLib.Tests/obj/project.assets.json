@@ -1,0 +1,124 @@
+{
+  "version": 4,
+  "targets": {
+    "net48": {
+      "CookingLib_Quest/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/CookingLib_Quest.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CookingLib_Quest.dll": {}
+        }
+      }
+    },
+    "net48/win-x86": {
+      "CookingLib_Quest/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/CookingLib_Quest.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CookingLib_Quest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CookingLib_Quest/1.0.0": {
+      "type": "project",
+      "path": "../../CookingLib/CookingLib.csproj",
+      "msbuildProject": "../../CookingLib/CookingLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net48": [
+      "CookingLib_Quest >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\cthom\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\coding_projects\\CookingLIb_Quest\\tests\\CookingLib.Tests\\CookingLib.Tests.csproj",
+      "projectName": "CookingLib.Tests",
+      "projectPath": "F:\\coding_projects\\CookingLIb_Quest\\tests\\CookingLib.Tests\\CookingLib.Tests.csproj",
+      "packagesPath": "C:\\Users\\cthom\\.nuget\\packages\\",
+      "outputPath": "F:\\coding_projects\\CookingLIb_Quest\\tests\\CookingLib.Tests\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\cthom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "framework": "net48",
+          "targetAlias": "net48",
+          "projectReferences": {
+            "F:\\coding_projects\\CookingLIb_Quest\\CookingLib\\CookingLib.csproj": {
+              "projectPath": "F:\\coding_projects\\CookingLIb_Quest\\CookingLib\\CookingLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.400"
+    },
+    "frameworks": {
+      "net48": {
+        "framework": "net48",
+        "targetAlias": "net48",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x86": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project CookingLib_Quest is not compatible with net48 (.NETFramework,Version=v4.8). Project CookingLib_Quest supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "CookingLib_Quest",
+      "targetGraphs": [
+        "net48"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project CookingLib_Quest is not compatible with net48 (.NETFramework,Version=v4.8) / win-x86. Project CookingLib_Quest supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "CookingLib_Quest",
+      "targetGraphs": [
+        "net48/win-x86"
+      ]
+    }
+  ]
+}

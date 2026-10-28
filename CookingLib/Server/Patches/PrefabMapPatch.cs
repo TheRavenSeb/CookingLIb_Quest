@@ -1,6 +1,6 @@
 using System;
 using System.Reflection;
-using Il2Cpp.Alta.Networking;
+using Il2CppAlta.Networking;
 using HarmonyLib;
 
 namespace CookingLib

@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Il2Cpp.Alta;
-using Il2Cpp.Alta.Cooking;
-using Il2Cpp.Alta.Pages;
+using Il2CppAlta;
+using Il2CppAlta.Cooking;
+using Il2CppAlta.Pages;
 using HarmonyLib;
 
 namespace CookingLib

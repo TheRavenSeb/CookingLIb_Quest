@@ -2,8 +2,8 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 using System.Text;
-using Il2Cpp.Alta.Cooking;
-using Il2Cpp.Alta.Networking;
+using Il2CppAlta.Cooking;
+using Il2CppAlta.Networking;
 
 namespace CookingLib
 {

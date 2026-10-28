@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Il2Cpp.Alta.Cooking;
-using Il2Cpp.Alta.Liquid;
-using Il2Cpp.Alta.Networking;
+using Il2CppAlta.Cooking;
+using Il2CppAlta.Liquid;
+using Il2CppAlta.Networking;
 using HarmonyLib;
 using UnityEngine;
 
