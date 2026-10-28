@@ -17,9 +17,7 @@
 		<EnableDefaultCompileItems>false</EnableDefaultCompileItems>
 	</PropertyGroup>
 
-	<ItemGroup>
-		<Compile Include="Main.cs" />
-	</ItemGroup>
+	
 
 	<ItemGroup>
 	  <Reference Include="Il2CppAlta.Api.Client">

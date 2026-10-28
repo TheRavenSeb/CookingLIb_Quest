@@ -4,7 +4,8 @@ using MelonLoader;
 using UnityEngine;
 
 [assembly: MelonInfo(typeof(CookingLib.Main), "CookingLib", CookingLib.Main.Version, "Shadow")]
-[assembly: MelonGame("Alta", "A Township Tale")]
+[assembly: MelonGame("Alta", "Att_Quest")]
+
 
 namespace CookingLib
 {
